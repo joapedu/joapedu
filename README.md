@@ -1,10 +1,10 @@
-### Hello, I'm João Eduardo Braga!
+## Hello, I'm João Eduardo Braga!
 
 - 📕 IT Student and Researcher.
 - 💻 Trainee Software Developer at INPE.
 - 📩 Email: joaoeduardobraga2@gmail.com
 
-##
+#
 
 <div>
   <a href="https://github.com/joapedu">
