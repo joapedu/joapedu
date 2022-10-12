@@ -22,6 +22,7 @@
   <img align="center" alt="joao-CSS" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="joao-docker" height="60" width="70" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png">
   <a href="https://ibb.co/gWYv3ck"><img src="https://i.ibb.co/M1d8sJF/5a36954d40bea2-0735336615135266052652.png" align="center" alt="joao-c" height="60" width="50" /></a>
+  <img align="center" alt="joao-python" height="60" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png?20220821155029">
   
   <br> <br>
   
