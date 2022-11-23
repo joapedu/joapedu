@@ -16,7 +16,6 @@ I'm a Brazilian Web Developer using Python and Javascript most of the time but l
 <a href="https://http://linguagemc.com.br/o-que-e-linguagem-c//"><img height= "35" src= "https://img.shields.io/badge/c-35495E?style=for-the-badge&logo=c&logoColor=4FC08D"></a>
 <a href="https:https://www.djangoproject.com/"><img height= "35" src= "https://img.shields.io/badge/Django-4EA94B?style=for-the-badge&logo=Django&logoColor=white"></a>
 <a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-<a href="https://www.json.org/json-en.html"><img height= "35" src= "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
 <a href="https://www.mysql.com/"><img height= "35" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://www.markdownguide.org/"><img height= "35" src= "https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
@@ -26,10 +25,12 @@ I'm a Brazilian Web Developer using Python and Javascript most of the time but l
 <a href="https://flask.palletsprojects.com/en/2.2.x/"><img height= "35" src= "https://img.shields.io/badge/Flask-4A4A55?style=for-the-badge&logo=Flask&logoColor=FF3E00"></a>
 <a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 
+
 ## 📖  And some of the ones I'm studying or that I know a little less  📖
 
 <a href="https://www.typescriptlang.org/"><img height= "35" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+<a href="https://www.json.org/json-en.html"><img height= "35" src= "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
 <a href="https://reactjs.org/"><img height= "35" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="https://angular.io/docs"><img height= "35" src= "https://img.shields.io/badge/ANGULAR-E34F26?style=for-the-badge&logo=angular&logoColor=white"></a>
 <a href="https://nextjs.org/"><img height= "35" src= "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
@@ -39,8 +40,10 @@ I'm a Brazilian Web Developer using Python and Javascript most of the time but l
 <a href="https://tailwindcss.com/"><img height= "35" src= "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 <a href="https://sass-lang.com/"><img height= "35" src= "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
 <a href="https://www.mongodb.com/"><img height= "35" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+<a href="https://about.gitlab.com"><img height= "35" src= "https://img.shields.io/badge/gitlab-00000F?style=for-the-badge&logo=gitlab&logoColor=FF3E00"></a>
 <a href="https://kubernetes.io/pt-br/"><img height= "35" src= "https://img.shields.io/badge/kubernetes-316192?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
 <a href="https://graphql.org/"><img height= "35" src= "https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
+
 
 #
 
