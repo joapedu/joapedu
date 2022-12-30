@@ -40,7 +40,7 @@ Sou um desenvolvedor web brasileiro que utiliza Python e Javascript na maior par
 #
 
 <p align="center">
-    <img src="https://github.com/lucasgaldinomt/lucasgaldinomt/blob/main/assets/hornet_hollow_knight.gif" width="100%" height="100%"/>
+    <img src="https://github.com/joapedu/joapedu/blob/main/assets/hornet_hollow_knight.gif" width="100%" height="100%"/>
 </p>
 
 <p align="center">
