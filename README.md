@@ -48,7 +48,7 @@ I'm a Brazilian Web Developer using Python and Javascript most of the time but l
 #
 
 <p align="center">
-    <img src="https://github.com/lucasgaldinomt/lucasgaldinomt/blob/main/assets/hornet_hollow_knight.gif" width="100%" height="100%"/>
+    <img src="https://github.com/lucasgaldinomt/joapedu/blob/main/assets/hornet_hollow_knight.gif" width="100%" height="100%"/>
 </p>
 
 <p align="center">
