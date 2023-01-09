@@ -1,10 +1,13 @@
 <p align="right">
     <a href="https://github.com/joapedu/joapedu/blob/main/README_PTBR.md">🇧🇷 Versão em português 🇧🇷</a>
 </p>
+<div align = "center">
+  <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
+</div>
 
-# 🖖🏻  Hi! My name is João!  🐺 👾 👺
+# Hi! My name is João!  🐺 👾 👺
 
-I'm a Brazilian Web Developer using Python and Javascript most of the time but learning Java as well. My free time is spent taking pictures, but nothing professional. I am currently a researcher and Bachelor's student in Information Technology course and working at <a href="http://inpe.br/">INPE</a> as a software developer.
+I'm a Brazilian Full Stack Developer using Python and Javascript most of the time but learning Java as well. My free time is spent taking pictures, but nothing professional. I am currently a researcher and Bachelor's student in Information Technology course and working at <a href="http://inpe.br/">INPE</a> as a software developer.
 
 #
 
@@ -44,6 +47,13 @@ I'm a Brazilian Web Developer using Python and Javascript most of the time but l
 <a href="https://kubernetes.io/pt-br/"><img height= "35" src= "https://img.shields.io/badge/kubernetes-316192?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
 <a href="https://graphql.org/"><img height= "35" src= "https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
 
+#
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joapedu&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joapedu&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joapedu&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joapedu&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=joapedu&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 
 #
 
@@ -58,3 +68,10 @@ I'm a Brazilian Web Developer using Python and Javascript most of the time but l
 <p align="center">
 - Hollow Knight -
 </p>
+<h3 align="center">:phone: <i>C O N T A T O S</i> :phone:</h2>
+<div align="center">
+    <a href="https://joao-eduardo-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-2F3134?style=for-the-badge&logo=alibabacloud&logoColor=white"></a>
+    <a href = "mailto:joaoeduardobraga2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-F80000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/joão-eduardo-braga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://https://wa.me/5584981480327/" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-4EA94B?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
+</div>
