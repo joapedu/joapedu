@@ -10,7 +10,7 @@ Sou um desenvolvedor web brasileiro que utiliza _Python_ e _Javascript_ na maior
 
 ## ⭐️  Tecnologias que conheço mais  ⭐️
 <a href="https://www.docker.com/"><img height= "35" src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
-<a href="https:https://www.djangoproject.com/"><img height= "35" src= "https://img.shields.io/badge/Django-4EA94B?style=for-the-badge&logo=Django&logoColor=white"></a>
+<a href="https://www.djangoproject.com/"><img height= "35" src= "https://img.shields.io/badge/Django-4EA94B?style=for-the-badge&logo=Django&logoColor=white"></a>
 <a href="https://angular.io/docs"><img height= "35" src= "https://img.shields.io/badge/ANGULAR-E34F26?style=for-the-badge&logo=angular&logoColor=white"></a>
 <a href="https://www.javascript.com/"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
