@@ -52,16 +52,9 @@ Sou um desenvolvedor web brasileiro que utiliza _Python_ e _Javascript_ na maior
 #
 
 <p align="center">
-    <img src="https://github.com/joapedu/joapedu/blob/main/assets/hornet_hollow_knight.gif" width="100%" height="100%"/>
+    <img src="https://github.com/joapedu/joapedu/blob/main/assets/banner-fullstack.gif" width="100%" height="100%"/>
 </p>
 
-<p align="center">
-"Sem nenhum custo alto. Nenhuma mente para pensar. Nenhuma vontade de se quebrar. Nenhuma voz para chorar o sofrimento. Nascido de Deus e Vazio. Você deve selar a luz ofuscante que assola seus sonhos. Você é o receptáculo. Você é o Cavaleiro Vazio."
-</p>
-
-<p align="center">
-- Hollow Knight -
-</p>
 <h3 align="center">:phone: <i>C O N T A T O S</i> :phone:</h2>
 <div align="center">
     <a href="https://joao-eduardo-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-2F3134?style=for-the-badge&logo=alibabacloud&logoColor=white"></a>
