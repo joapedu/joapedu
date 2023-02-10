@@ -57,17 +57,10 @@ I'm a Brazilian Full Stack Developer using Python and Javascript most of the tim
 #
 
 <p align="center">
-    <img src="https://github.com/joapedu/joapedu/blob/main/assets/hornet_hollow_knight.gif" width="100%" height="100%"/>
+    <img src="https://github.com/joapedu/joapedu/blob/main/assets/banner-fullstack.gif" width="100%" height="100%"/>
 </p>
 
-<p align="center">
-"No cost too great. No mind to think. No will to break. No voice to cry suffering. Born of God and Void. You shall seal the blinding light that plagues their dreams. You are the Vessel. You are the Hollow Knight."
-</p>
-
-<p align="center">
-- Hollow Knight -
-</p>
-<h3 align="center">:phone: <i>C O N T A T O S</i> :phone:</h2>
+<h3 align="center">:phone: <i>C O N T A C T</i> :phone:</h2>
 <div align="center">
     <a href="https://joao-eduardo-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-2F3134?style=for-the-badge&logo=alibabacloud&logoColor=white"></a>
     <a href = "mailto:joaoeduardobraga2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-F80000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
