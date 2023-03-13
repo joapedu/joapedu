@@ -25,7 +25,7 @@ Sou um desenvolvedor web brasileiro que utiliza _Python_ e _Javascript_ na maior
 <a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://about.gitlab.com"><img height= "35" src= "https://img.shields.io/badge/gitlab-00000F?style=for-the-badge&logo=gitlab&logoColor=FF3E00"></a>
 
-## 📖  E tecnologias que conheço um pouco menos ou estou estudando  📖
+## 📖  Tecnologias que conheço um pouco menos ou estou estudando  📖
 <a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 <a href="https://www.json.org/json-en.html"><img height= "35" src= "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
 <a href="https://nextjs.org/"><img height= "35" src= "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
