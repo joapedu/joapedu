@@ -4,7 +4,7 @@
 
 #  Oi! Meu nome é João!  🐺 👾 👺
 
-Sou um desenvolvedor web brasileiro que utiliza _Python_ e _Javascript_ na maior parte do tempo mas que também está aprendendo _Java_. Costumo utilizar meu tempo livre tirando fotos, mas nada muito profissional. Atualmente sou pesquisador e estudante graduando no curso Tecnologia da Informação da UFRN e trabalho no <a href="https://www.gov.br/inpe/pt-br">INPE</a> como desenvolvedor front end.
+Sou um desenvolvedor web brasileiro que utiliza _Python_ e _Javascript_ na maior parte do tempo mas que também está aprendendo _Java_. Costumo utilizar meu tempo livre [tirando fotos](https://www.instagram.com/paysage_de_vie/), mas nada muito profissional. Atualmente sou pesquisador e estudante graduando no curso Tecnologia da Informação da UFRN e trabalho no <a href="https://www.gov.br/inpe/pt-br">INPE</a> como desenvolvedor front end.
 
 #
 
