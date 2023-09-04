@@ -7,7 +7,7 @@
 
 # Hi! My name is João!  🐺 👾 👺
 
-I'm a Brazilian Full Stack Developer using Python and Javascript most of the time but learning Java as well. My free time is spent [taking pictures](https://www.instagram.com/paysage_de_vie/), but nothing professional. I am currently a researcher and Bachelor's student in Information Technology course and working at <a href="https://www.gov.br/inpe/pt-br">INPE</a> as a front end developer.
+I'm a Brazilian Full Stack Developer using Python and Typescript most of the time but learning Java as well. My free time is spent [taking pictures](https://www.instagram.com/paysage_de_vie/), but nothing professional. I am currently a researcher and Bachelor's student in Information Technology course and working at <a href="https://activesoft.com.br/">Activesoft</a> as a Full Stack developer.
 
 #
 
