@@ -1,8 +1,4 @@
-<div align = "center">
-  <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
-</div>
-
-#  Oi! Meu nome é João!  🐺 👾 👺
+#  Oi! Meu nome é João!  🐺 👾 
 
 Sou um desenvolvedor web brasileiro que utiliza _Python_ e _Javascript_ na maior parte do tempo mas que também está aprendendo _Java_. Costumo utilizar meu tempo livre [tirando fotos](https://www.instagram.com/paysage_de_vie/), mas nada muito profissional. Atualmente sou pesquisador e estudante graduando no curso Tecnologia da Informação da UFRN e trabalho no <a href="https://activesoft.com.br/">Activesoft</a> como desenvolvedor Full Stack.
 
