@@ -1,9 +1,6 @@
 <p align="right">
     <a href="https://github.com/joapedu/joapedu/blob/main/README_PTBR.md">🇧🇷 Versão em português 🇧🇷</a>
 </p>
-<div align = "center">
-  <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif" >
-</div>
 
 # Hi! My name is João!  🐺 👾 👺
 
