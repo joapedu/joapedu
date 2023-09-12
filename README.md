@@ -21,6 +21,7 @@ I'm a Brazilian Full Stack Developer using Python and Typescript most of the tim
 <a href="https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170"><img height= "35" src= "https://img.shields.io/badge/C++-2764a5?style=for-the-badge&logo=c%2B%2B&logoColor=4FC08D">
 <a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://about.gitlab.com"><img height= "35" src= "https://img.shields.io/badge/gitlab-00000F?style=for-the-badge&logo=gitlab&logoColor=FF3E00"></a>
+<a href="https://www.atlassian.com/br/software/jira"><img height= "35" src= "https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></a>
 
 ## 📖  And some of the ones I'm studying or that I know a little less  📖
 <a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
