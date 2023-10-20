@@ -8,6 +8,8 @@
  <img src="https://img.shields.io/badge/React-087ea9?style=for-the-badge&logo=react&logoColor=white">
  <img src="https://img.shields.io/badge/Flask-004b6b.svg?&style=for-the-badge&logo=flask&logoColor=white">
  <img src="https://img.shields.io/badge/MySQL-e97b00?style=for-the-badge&logo=mysql&logoColor=black">
+ </p>
+<p float="left">
  <img src="https://img.shields.io/badge/Nodejs-026e00?style=for-the-badge&logo=node.js&logoColor=white">
  <img src="https://img.shields.io/badge/Tailwind-0EA5E9?style=for-the-badge&logo=tailwind&logoColor=white">
  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
