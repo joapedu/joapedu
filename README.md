@@ -1,39 +1,22 @@
 ### Hello there, I'm João 👋
-- Working on Activesoft. 🦾
+- Currently working as a Full Stack developer at [Activesoft](https://activesoft.com.br/). 🦾
 ---
+<p float="left">
+ <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+ <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+ <img src="https://img.shields.io/badge/Django-44B78B?style=for-the-badge&logo=django&logoColor=white">
+ <img src="https://img.shields.io/badge/React-087ea9?style=for-the-badge&logo=react&logoColor=white">
+ <img src="https://img.shields.io/badge/Flask-004b6b.svg?&style=for-the-badge&logo=flask&logoColor=white">
+ <img src="https://img.shields.io/badge/MySQL-e97b00?style=for-the-badge&logo=mysql&logoColor=black">
+ <img src="https://img.shields.io/badge/Nodejs-026e00?style=for-the-badge&logo=node.js&logoColor=white">
+ <img src="https://img.shields.io/badge/Tailwind-0EA5E9?style=for-the-badge&logo=tailwind&logoColor=white">
+ <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+ <img src="https://img.shields.io/badge/git-f14e32?style=for-the-badge&logo=git&logoColor=white">
+ <img src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white">
+</p>
 
-![Status](./profile-3d-contrib/profile-night-green.svg)
-  
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joapedu&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joapedu&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joapedu&theme=nord_dark) |
+| :-: | :-: | :-: |
 
-  
- | ![Github Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joapedu&theme=dracula&utcOffset=-3) | [![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joapedu&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
-
-
- 
-  <div align="center" >
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=angular,docker,django,react,css,tailwind,gitlab,typescript,javascript,sass,nodejs,flask,linux,mysql,kubernetes" />
-</a>
-  <br />
-
-  </div>
-
- 
-##
-   <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=joapedu&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
-  
- 
-
-
-
-
-### Hello there, I'm Casper 👋
-- I love open source. ❤️ 
----
-
-[![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joapedu&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=joapedu&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
