@@ -2,9 +2,9 @@
 - Currently working as a Full Stack developer at [Activesoft](https://activesoft.com.br/). 🦾
 ---
 <p float="left">
- <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
  <img src="https://img.shields.io/badge/Django-44B78B?style=for-the-badge&logo=django&logoColor=white">
+ <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
  <img src="https://img.shields.io/badge/React-087ea9?style=for-the-badge&logo=react&logoColor=white">
  <img src="https://img.shields.io/badge/Flask-004b6b.svg?&style=for-the-badge&logo=flask&logoColor=white">
  <img src="https://img.shields.io/badge/MySQL-e97b00?style=for-the-badge&logo=mysql&logoColor=black">
@@ -13,6 +13,7 @@
  <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
  <img src="https://img.shields.io/badge/git-f14e32?style=for-the-badge&logo=git&logoColor=white">
  <img src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=white">
+ <img src="https://img.shields.io/badge/portainer-0BA5EC?style=for-the-badge&logo=portainer&logoColor=white">
 </p>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joapedu&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joapedu&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joapedu&theme=nord_dark) |
