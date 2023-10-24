@@ -26,6 +26,10 @@
   <a href="https://www.mysql.com/">
  <img src="https://img.shields.io/badge/MySQL-e97b00?style=for-the-badge&logo=mysql&logoColor=black">
  </a>
+
+<a href="https://spring.io/">
+ <img src="https://img.shields.io/badge/Spring-589133?style=for-the-badge&logo=spring&logoColor=white">
+</a>
  
  </p>
 <p float="left">
@@ -53,7 +57,10 @@
  <a href="https://www.portainer.io/">
  <img src="https://img.shields.io/badge/portainer-0BA5EC?style=for-the-badge&logo=portainer&logoColor=white">
  </a>
- 
+
+ <a href="https://www.postgresql.org/">
+ <img src="https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+ </a>
 </p>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joapedu&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joapedu&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joapedu&theme=nord_dark) |
