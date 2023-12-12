@@ -1,10 +1,14 @@
-### Hello there, I'm João 👋
-- Currently working as a Full Stack developer at [Activesoft](https://activesoft.com.br/). 🦾
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000AFF&background=FFFFFF00&random=false&width=435&lines=Hello+there%2C+I'm+Jo%C3%A3o+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%96%A5%EF%B8%8F;Python+Expert+%F0%9F%90%8D;Typescript+Magician+%F0%9F%AA%84;Reach+Me+On+Linkedin+%F0%9F%92%BC)](https://git.io/typing-svg)
+- 🦾 Currently working as a Full Stack developer at [Activesoft](https://activesoft.com.br/)
+- 📫 How to reach me: joaoeduardobraga2@gmail.com
+- ✨ My favorite side project is [Email-Workers](https://github.com/joapedu/email-workers)
+- 🔭 My newest side project is currently still in stealth mode 🤫
+
 ---
 <p float="left">
- 
- <a style="text-decoration: none" href="https://angular.io/">
- <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+
+  <a href="https://pt-br.legacy.reactjs.org/" style="text-decoration: none">
+ <img src="https://img.shields.io/badge/React-087ea9?style=for-the-badge&logo=react&logoColor=white">
  </a>
  
  <a href="https://www.djangoproject.com/" style="text-decoration: none">
@@ -15,27 +19,21 @@
  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
  </a>
  
- <a href="https://pt-br.legacy.reactjs.org/">
- <img src="https://img.shields.io/badge/React-087ea9?style=for-the-badge&logo=react&logoColor=white">
+ <a style="text-decoration: none" href="https://angular.io/">
+ <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
  </a>
  
- <a href="https://flask.palletsprojects.com/en/3.0.x/">
+ <a href="https://flask.palletsprojects.com/en/3.0.x/" style="text-decoration: none">
  <img src="https://img.shields.io/badge/Flask-004b6b.svg?&style=for-the-badge&logo=flask&logoColor=white">
  </a>
  
- <a href="https://nodejs.org/en">
+ <a href="https://nodejs.org/en" style="text-decoration: none">
  <img src="https://img.shields.io/badge/Nodejs-026e00?style=for-the-badge&logo=node.js&logoColor=white">
  </a>
-
+ 
  <a href="https://tailwindcss.com/">
  <img src="https://img.shields.io/badge/Tailwind-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white">
  </a>
- 
- <a href="https://www.atlassian.com/br/software/jira">
- <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
- </a>
-
-
 </p>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joapedu&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joapedu&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joapedu&theme=nord_dark) |
