@@ -2,7 +2,7 @@
 - 🦾 Currently working as a Full Stack developer at [Activesoft](https://activesoft.com.br/)
 - 📫 How to reach me: joaoeduardobraga2@gmail.com
 - ✨ My favorite side project is [Email-Workers](https://github.com/joapedu/email-workers)
-- 🔭 My newest side project is currently still in stealth mode 🤫
+- 🔭 My newest side project is [Dockerizing the pytest](https://github.com/joapedu/dockerizing-pytest) 😄
 
 ---
 <p float="left">
