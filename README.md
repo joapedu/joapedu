@@ -6,7 +6,7 @@
   
 
   
- | ![Github Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joapedu&theme=dracula&utcOffset=-3) | [![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joapedu&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ![Github Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joapedu&theme=dracula&utcOffset=-3) | ![GitHub Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joapedu&theme=dracula) |  
  | ----------- | ----------- |
 
 
