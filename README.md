@@ -30,10 +30,6 @@
  <a href="https://nodejs.org/en" style="text-decoration: none">
  <img src="https://img.shields.io/badge/Nodejs-026e00?style=for-the-badge&logo=node.js&logoColor=white">
  </a>
- 
- <a href="https://tailwindcss.com/">
- <img src="https://img.shields.io/badge/Tailwind-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white">
- </a>
 </p>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joapedu&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joapedu&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joapedu&theme=nord_dark) |
