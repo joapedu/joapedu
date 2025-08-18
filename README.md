@@ -10,7 +10,7 @@
 ##### my newest side project is still in production [_cryptonomics_](https://github.com/joapedu/cryptonomics) 🔧
 ---
  
-> I worked on developing a platform for visualizing Brazilian environmental data [datasinda](datasinda.dev.inpe.br).
+> I worked on developing a platform for visualizing Brazilian environmental data [datasinda](https://datasinda.dev.coene.inpe.br/).
 
 > I helped develop two open source games [lucid break](https://github.com/BiaPegado/LucidBreak) and [abismo de vyr](https://github.com/BiaPegado/Abismo-de-vyr).
 
