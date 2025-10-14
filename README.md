@@ -4,15 +4,18 @@
 #### Currently working as a Mid-level Full Stack developer at [ BNP ](https://bnpsolucoes.com.br/)
 
 #### How to reach me: [_joaoeduardobraga2@gmail.com_](mailto:joaoeduardobraga2@gmail.com)
- 
-> I worked on developing a platform for visualizing brazilian environmental data, the [DataSINDA](https://data.sinda.coene.inpe.br/).
+---
+##### some of the professional work I have done:
+> I worked on developing a platform for **visualizing brazilian environmental data**, the [DataSINDA](https://data.sinda.coene.inpe.br/).
 
-> I worked with **Lenovo** on a project that implements proactive lifecycle management of emerging applications delivered by 5G Network Slices at [LANCE](https://lance.ufrn.br/).
+> I implemented a public notice system for the **largest film institution in Brazil**, SPCINE [https://spcineeditais.com.br/]
 
-> I helped develop two open source games [Lucid Break](https://github.com/BiaPegado/LucidBreak) and [Abismo de Vyr](https://github.com/BiaPegado/Abismo-de-vyr).
+> I worked with **Lenovo** on a project that implements **proactive lifecycle management** of emerging applications delivered by 5G Network Slices at [LANCE](https://lance.ufrn.br/).
 
-> I collaborated on one of the largest educational ERPs in Brazil [SigaWeb](https://siga.activesoft.com.br/login/).
+> I collaborated on one of the **largest educational ERPs in Brazil** [SigaWeb](https://siga.activesoft.com.br/login/).
 
-> I worked in the infrastructure for the development of AI solutions in the field of pathology [PathoTech](https://homologacao.pathotech.ai/login).
+> I worked in the infrastructure for the **development of AI solutions** in the field of pathology [PathoTech](https://demo.pathotech.ai/login).
 
-> I played a crucial role in developing the São Paulo state government's cultural support system [Fomento](https://fomentocultsp.sp.gov.br).
+> I played a crucial role in developing the **São Paulo state government's cultural** support system [Fomento](https://fomentocultsp.sp.gov.br).
+
+> I helped develop two **open source games** [Lucid Break](https://github.com/BiaPegado/LucidBreak) and [Abismo de Vyr](https://github.com/BiaPegado/Abismo-de-vyr).
