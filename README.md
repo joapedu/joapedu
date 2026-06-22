@@ -28,3 +28,5 @@
 > I also worked in the system financed by the Culture Secretariat of the Government of São Paulo, a system designed to **contain an extensive calendar of events**, the [Agenda Viva SP](https://agendavivasp.com.br/).
 
 > I **helped** to develop two open source games **([Lucid Break](https://github.com/BiaPegado/LucidBreak) and [Abismo de Vyr](https://github.com/BiaPegado/Abismo-de-vyr))** and developed on my own **[Neural-Pursuit](https://github.com/joapedu/neural-pursuit) and [Binding of Pysaac](https://github.com/joapedu/binding-of-pysaac)**.
+
+> I developed a system open source for **verifying, educating, and raising awareness about fake news** to elderly people, the [Verifica+](https://github.com/joapedu/verificaMais) check the [Site](https://verificamais.vercel.app/)!
