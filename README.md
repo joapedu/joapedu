@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=34&pause=1000&color=2611AC&center=true&vCenter=true&width=435&lines=hello+there!+I'm+jo%C3%A3o;swe+based+in+Brazil;mid-level+full+stack+dev;linux+nerd+asf;reach+me+on+linkedin!)](https://www.linkedin.com/in/joão-eduardo-braga/)
 
 ---
-### Currently working as a Mid-level Full Stack developer at [BNP](https://bnpsolucoes.com.br/).
+### Currently working as a Senior Full Stack developer at [YVY Energy](https://yvyenergias.com.br/).
 
 ### How to reach me:
 📩 [hey@joao.dev](mailto:joaoeduardobraga2@gmail.com)
@@ -10,6 +10,8 @@
 
 ---
 ### Some of the professional work I have done:
+
+> I am the technical lead for [YVY](https://yvyenergias.com.br/), a **digital platform focused on energy efficiency**.
 
 > I worked on developing a platform for **visualizing brazilian environmental data**, the [DataSINDA](https://data.sinda.coene.inpe.br/).
 
