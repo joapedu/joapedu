@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=34&pause=1000&color=2611AC&center=true&vCenter=true&width=435&lines=hello+there!+I'm+jo%C3%A3o;swe+based+in+Brazil;mid-level+full+stack+dev;linux+nerd+asf;reach+me+on+linkedin!)](https://www.linkedin.com/in/joão-eduardo-braga/)
 
 ---
-### Currently working as a Senior Full Stack developer at [YVY Energy](https://yvyenergias.com.br/).
+### Currently working as a technical lead at [YVY Energy](https://yvyenergias.com.br/).
 
 ### How to reach me:
 📩 [hey@joao.dev](mailto:joaoeduardobraga2@gmail.com)
@@ -23,7 +23,7 @@
 
 > I collaborated on one of the **largest educational ERPs in Brazil**, the [SigaWeb](https://siga.activesoft.com.br/login/).
 
-> I worked in the infrastructure for the **development of AI solutions** in the field of pathology, the [PathoTech](https://demo.pathotech.ai/login).
+> I worked in the infrastructure for the **development of AI solutions** in the field of pathology, the [PathoWeb](https://pathoweb.com.br/).
 
 > I played a crucial role in the core behind the **country's main cultural development management systems**, the [Fase Pro](https://fase.pro/).
 
