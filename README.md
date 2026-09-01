@@ -9,7 +9,7 @@
 🖥️ [_portfolio_](https://portfolio-joapedu.vercel.app/)
 
 ---
-### Some of the professional work I have done:
+### Some of the professional experiences I've had:
 
 > I am the technical lead for [YVY](https://yvyenergias.com.br/), a **digital platform focused on energy efficiency**.
 
